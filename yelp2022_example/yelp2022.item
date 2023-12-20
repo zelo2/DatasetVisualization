@@ -1,0 +1,6 @@
+item_id:token	item_name:token_seq	address:token_seq	city:token_seq	state:token	postal_code:token	latitude:float	longitude:float	item_stars:float	item_review_count:float	is_open:float	categories:token_seq
+Pns2l4eNsfO8kk83dixA6A	Abby Rappoport, LAC, CMQ	1616 Chapala St, Ste 2	Santa Barbara	CA	93101	34.4266787	-119.7111968	5.0	7	0	Doctors, Traditional Chinese Medicine, Naturopathic/Holistic, Acupuncture, Health & Medical, Nutritionists
+mpf3x-BjTdTEA3yCZrAYPw	The UPS Store	87 Grasso Plaza Shopping Center	Affton	MO	63123	38.551126	-90.335695	3.0	15	1	Shipping Centers, Local Services, Notaries, Mailbox Centers, Printing Services
+tUFrWirKiKi_TAnsVWINQQ	Target	5255 E Broadway Blvd	Tucson	AZ	85711	32.223236	-110.880452	3.5	22	0	Department Stores, Shopping, Fashion, Home & Garden, Electronics, Furniture Stores
+MTSW4McQd7CbVtyjqoe9mw	St Honore Pastries	935 Race St	Philadelphia	PA	19107	39.9555052	-75.1555641	4.0	80	1	Restaurants, Food, Bubble Tea, Coffee & Tea, Bakeries
+mWMc6_wTdE0EUBKIGXDVfA	Perkiomen Valley Brewery	101 Walnut St	Green Lane	PA	18054	40.3381827	-75.4716585	4.5	13	1	Brewpubs, Breweries, Food

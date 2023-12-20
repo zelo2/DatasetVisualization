@@ -1,0 +1,6 @@
+item_id:token	item_name:token_seq	address:token_seq	city:token_seq	state:token	postal_code:token	latitude:float	longitude:float	item_stars:float	item_review_count:float	is_open:float	categories:token_seq
+6iYb2HFDywm3zjuRg0shjw	Oskar Blues Taproom	921 Pearl St	Boulder	CO	80302	40.0175444	-105.2833481	4.0	86	1	Gastropubs, Food, Beer Gardens, Restaurants, Bars, American (Traditional), Beer Bar, Nightlife, Breweries
+tCbdrRPZA0oiIYSmHG3J0w	Flying Elephants at PDX	7000 NE Airport Way	Portland	OR	97218	45.5889058992	-122.5933307507	4.0	126	1	Salad, Soup, Sandwiches, Delis, Restaurants, Cafes, Vegetarian
+bvN78flM8NLprQ1a1y5dRg	The Reclaimory	4720 Hawthorne Ave	Portland	OR	97214	45.5119069956	-122.6136928797	4.5	13	1	Antiques, Fashion, Used, Vintage & Consignment, Shopping, Furniture Stores, Home & Garden
+oaepsyvc0J17qwi8cfrOWg	Great Clips	2566 Enterprise Rd	Orange City	FL	32763	28.9144823	-81.2959787	3.0	8	1	Beauty & Spas, Hair Salons
+PE9uqAjdw0E4-8mjGl3wVA	Crossfit Terminus	1046 Memorial Dr SE	Atlanta	GA	30316	33.7470274	-84.3534244	4.0	14	1	Gyms, Active Life, Interval Training Gyms, Fitness & Instruction
